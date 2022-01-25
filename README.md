@@ -5,5 +5,6 @@ This is a repository dedicated to use only for communication about data requests
 1. Data product requested (stratum CPUE, etc.)
 2. Species
 3. Region (GOA, AI, Bering Sea)
-4. Research team making the request (PI /requester name if you are not the PI, and tag team members with github accounts)
+4. time-frame
+5. Research team making the request (PI /requester name if you are not the PI, and tag team members with github accounts)
 
