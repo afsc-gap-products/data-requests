@@ -9,7 +9,7 @@ If you are interested in a data product, [submit it as an issue](https://github.
 2. Species
 3. Region (GOA, AI, Bering Sea)
 4. Time frame
-5. Research team making the request (PI /requester name if you are not the PI, and tag team members with github accounts)
+5. Research team making the request (PI /requester name, and tag team members with GitHub accounts, or email address if requestor does not have a GitHub account)
 
 To better understand what data are available and how to interpret the data you receive, please see the full [metadata](https://www.fisheries.noaa.gov/inport/item/22008) and review our [survey codebooks](https://www.fisheries.noaa.gov/resource/document/groundfish-survey-species-code-manual-and-data-codes-manual).
 
