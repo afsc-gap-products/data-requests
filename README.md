@@ -11,7 +11,7 @@ If you are interested in a data product, [submit it as an issue](https://github.
 4. Time frame
 5. Research team making the request (PI /requester name if you are not the PI, and tag team members with github accounts)
 
-To better understand what data are available and how to interpret the data you receive, please review our [survey codebooks](https://www.fisheries.noaa.gov/resource/document/groundfish-survey-species-code-manual-and-data-codes-manual).
+To better understand what data are available and how to interpret the data you receive, please see the full [metadata](https://www.fisheries.noaa.gov/inport/item/22008) and review our [survey codebooks](https://www.fisheries.noaa.gov/resource/document/groundfish-survey-species-code-manual-and-data-codes-manual).
 
 ## Credit for data and analysis
 Adapted from Stan's [note](https://github.com/afsc-gap-products/data-requests/issues/3) to the groundfish team:
