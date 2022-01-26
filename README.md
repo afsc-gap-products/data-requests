@@ -24,13 +24,13 @@ These acknowledgements can take a form of “thank you” note in informal docum
 
 The acknowledgement in the form of co-authorship requires significant contribution to the paper. If  you think coauthorship is appropriate to the request, make this request in your initial response to the data request. Support your request with information about your specific contribution. Stan cites Yale University's [“Guidance on Authorship in Scholarly or Scientific Publications”](https://provost.yale.edu/policies/academic-integrity/guidance-authorship-scholarly-or-scientific-publications):
 
->Each author should have participated sufficiently in the work to take public responsibility for its content. All co-authors should have been directly involved in all three of >the following:
+>Each author should have participated sufficiently in the work to take public responsibility for its content. All co-authors should have been directly involved in all three of the following:
 >
->1. Planning and contribution to some component (conception, design, conduct, analysis, or interpretation) of the work which led to the paper or interpreting at least a portion >of the results;
+>1. Planning and contribution to some component (conception, design, conduct, analysis, or interpretation) of the work which led to the paper or interpreting at least a portion of the results;
 >
 >2. Writing a draft of the article or revising it for intellectual content; and
 >
->3. Final approval of the version to be published.  All authors should review and approve the manuscript before it is submitted for publication, at least as it pertains to their >roles in the project.
+>3. Final approval of the version to be published.  All authors should review and approve the manuscript before it is submitted for publication, at least as it pertains to their roles in the project.
 
 
 In general, if a data request requires a GAP scientist to write code for an analysis to derive a product (e.g., life staged biomass estimates or CPUE summarized for a specific region or time frame) then it is appropriate to request coauthorship, with the above qualifications in mind. Each co-author is responsible for considering his or her role in the project and whether that role merits attribution of authorship. Co-authors should review and approve the manuscript, at least as it pertains to their roles in the project.
