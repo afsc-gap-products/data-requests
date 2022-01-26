@@ -13,4 +13,4 @@ assignees: ''
 
 **Region** (GOA, AI, Bering Sea):
 
-**Research team making the request** (PI /requester name if you are not the PI, and tag team members with github accounts):
+**Research team making the request** (PI /requester name, and tag team members with GitHub accounts, or email address if requestor does not have a GitHub account):
