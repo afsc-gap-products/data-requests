@@ -3,7 +3,9 @@
 This is a repository dedicated to use only for communication about data requests via GitHub issues. 
 
 ## Making a request
-If you are interested in a data product, [submit it as an issue](https://github.com/afsc-gap-products/data-requests/issues) to this repository. If possible, include the following information:
+If you are interested in a subset of the raw data, or a data product, [submit it as an issue](https://github.com/afsc-gap-products/data-requests/issues) to this repository. Note that requests for querying historical raw data will be filled more quickly and with more regular periodicity than requests for derived data products that require new analysis (and depending on the time needed for this development, the latter may require discussions of the nature of the collaboration as noted in the section below "Credit for data and analysis"). 
+
+If possible, include the following information:
 
 1. Data product requested (stratum CPUE, etc.)
 2. Species
