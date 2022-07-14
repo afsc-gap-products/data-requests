@@ -3,7 +3,9 @@
 This is a repository dedicated to use only for communication about data requests via GitHub issues. 
 
 ## Making a request
-If you are interested in a subset of the raw data, or a data product, [submit it as an issue](https://github.com/afsc-gap-products/data-requests/issues) to this repository. Note that requests for querying historical raw data will be filled more quickly and with more regular periodicity than requests for derived data products that require new analysis (and depending on the time needed for this development, the latter may require discussions of the nature of the collaboration as noted in the section below "Credit for data and analysis"). 
+If you are interested in a subset of the raw data, or a data product, first peruse our [public data portal](https://www.fisheries.noaa.gov/foss/f?p=215:200:1801780733911:Mail:NO:::) to see if the haul and catch data there are sufficient. 
+
+If that does not fulfill your needs, [submit your request as an issue](https://github.com/afsc-gap-products/data-requests/issues) to this repository. Note that requests for querying historical raw data will be filled more quickly and with more regular periodicity than requests for derived data products that require new analysis (and depending on the time needed for this development, the latter may require discussions of the nature of the collaboration as noted in the section below "Credit for data and analysis"). 
 
 If possible, include the following information:
 
