@@ -18,8 +18,9 @@
 
 Alaska Fisheries Science Center (AFSC) National Oceanic and Atmospheric Administration (NOAA)  
 Resource Assessment and Conservation Engineering Division (RACE)  
-Groundfish Assessment Program (GAP) 
-7600 Sand Point Way, N.E. bldg. 4  
+Groundfish Assessment Program (GAP)
+
+7600 Sand Point Way N.E., bldg. 4  
 Seattle, WA 98115 USA
 
 ## User Resources
