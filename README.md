@@ -10,7 +10,7 @@
 
 ## This code is primarily maintained by:
 
-**The Groundfish Assessment Program** (afsc.gap.metadata@noaa.gov;
+**The Groundfish Assessment Program** (nmfs.afsc.gap.metadata@noaa.gov;
 [@afsc-gap-products](https://github.com/afsc-gap-products))
 
 **Nancy Roberson** (Nancy.Roberson AT noaa.gov;
@@ -84,7 +84,7 @@ Discuss data requests with your supervisor and/or Program Manager and reach a de
 
 **User Constraints:** Users must read and fully comprehend the metadata prior to use. Data should not be used beyond the limits of the source scale. Acknowledgment of AFSC Groundfish Assessment Program, as the source from which these data were obtained, in any publications and/or other representations of these data, is suggested.
 
-**General questions and more specific data requests** can be sent to <afsc.gap.metadata@noaa.gov> or submitted as an [issue on our GitHub
+**General questions and more specific data requests** can be sent to <nmfs.afsc.gap.metadata@noaa.gov> or submitted as an [issue on our GitHub
 Organization](https://github.com/afsc-gap-products/data-requests). The version of this data used for stock assessments can be found through the Alaska Fisheries Information Network (AKFIN). For questions about the eastern Bering Sea surveys, contact Duane Stevenson (<Duane.Stevenson@noaa.gov>). For questions about the Gulf of Alaska or Aleutian Islands surveys, contact Ned Laman (<Ned.Laman@noaa.gov>). For questions specifically about crab data in any region, contact Mike Litzow (<Mike.Litzow@noaa.gov>), the Shellfish Assessment Program lead.
 
 For questions, comments, and concerns specifically about the [Fisheries One Stop Shop (FOSS)](https://www.fisheries.noaa.gov/foss) platform, please contact us using the Comments page on the [FOSS](https://www.fisheries.noaa.gov/foss) webpage.
