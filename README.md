@@ -13,8 +13,6 @@
 **The Groundfish Assessment Program** (nmfs.afsc.gap.metadata@noaa.gov;
 [@afsc-gap-products](https://github.com/afsc-gap-products))
 
-**nmfs.afsc.gap.metadata@noaa.gov**
-
 Alaska Fisheries Science Center (AFSC) National Oceanic and Atmospheric Administration (NOAA)  
 Resource Assessment and Conservation Engineering Division (RACE)  
 Groundfish Assessment Program (GAP)
