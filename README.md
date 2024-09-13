@@ -52,7 +52,7 @@ If you are a GAP scientist providing data to a requester, when you are done,
 
 1) **Comment on the issue** for that request with code or a link to the code you used to generate that data product. If it is something very standard like a CPUE table, there's no need to post the code, just note which script or static table you used.
 
-2) **Deposit the data** in our [Google Drive folder](https://drive.google.com/drive/folders/1hfNhfOmIDC7dSigbsz4P3amZWj4jMv_u?usp=sharing) and prefix it with the issue number (e.g., `5_salmon_shark/`). If you don't have access to this folder, contact Lewis, Duane, or Ned. Once the data request has been fulfilled, make a note on the issue and close it.
+2) **Deposit the data** in our [Google Drive folder](https://drive.google.com/drive/folders/1oDD4wt_pvJRVcTI4_z0VSqjIX2uLga_p) and prefix it with the issue number (e.g., `5_salmon_shark/`). If you don't have access to this folder, contact Lewis, Duane, or Ned. Once the data request has been fulfilled, make a note on the issue and close it.
 
 ## Credit for data and analysis
 Adapted from Stan's [note](https://github.com/afsc-gap-products/data-requests/issues/3) to the groundfish team:
